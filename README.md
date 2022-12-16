@@ -3,7 +3,7 @@
 
 #### This short course introduces Python and Machine learning at a beginner's level.
 
-This course was developed to train clinicians and biomedical scientists at Cancer Research UK's Cambridge institute how to develop machine learning models in the shortest possible time.
+The course was developed to train clinicians and biomedical scientists at Cancer Research UK's Cambridge institute how to develop machine learning models in the shortest possible time.
 
 **Download the course's content by clicking the green 'code' button and hitting 'Download .zip'.** Once downloaded, unzip the folder structure on your computer. The lecture slides will be viewable offline within this folder structure, but you will still need an online connection to access the tutorials.
 
