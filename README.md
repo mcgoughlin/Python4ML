@@ -5,7 +5,9 @@
 
 This course was developed to train clinicians and biomedical scientists at Cancer Research UK's Cambridge institute how to develop machine learning models in the shortest possible time.
 
-#### Download the course's content by clicking the green 'code' button and hitting 'download zip'. Once downloaded, unzip the folder structure! The lecture slides will be viewable offline, but you will still need an online connection to access the tutorials. These can be accessed using the following links:
+**Download the course's content by clicking the green 'code' button and hitting 'Download .zip'.** Once downloaded, unzip the folder structure on your computer. The lecture slides will be viewable offline within this folder structure, but you will still need an online connection to access the tutorials.
+
+**The tutorials can be accessed using the following links:**
 
 Tutorial 1: https://colab.research.google.com/drive/1f3sAvwoK3icXEDEMa5ZRobVwdG-zfBew  
 Answers: https://colab.research.google.com/drive/1tOVL8CRyLisSqzvBYIXdNVVu5qV56Vz7  
