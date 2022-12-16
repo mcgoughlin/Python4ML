@@ -18,6 +18,8 @@ Answers: https://colab.research.google.com/drive/13ZW_aMEseq8e8756o14YXh-PNTOBsu
 Tutorial 3: https://colab.research.google.com/drive/1UQQ7UaqSzct84-IYMwBoqDaxUXpNQVuQ  
 Answers: https://colab.research.google.com/drive/1FrSUB5CQPpWlo9O5Jnnkop90eFC6-slC  
 
+Create a copy of these tutorials in your own Google Drive to run the code. To do this, go into the tutorial link, click 'File', and finnaly 'Save a Copy in Drive'.
+
 We hope these materials provide utility for a broader audience! We suggest reading through the lecture slides before proceeding to the tutorial sheets. All the data needed for this short course can be found in the 'sample_data' subfolder in each week's folder.
 
 If you have any questions on this course's content, or how to get started on this course, email me at wcm23@cam.ac.uk.
