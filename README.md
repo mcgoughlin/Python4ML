@@ -20,7 +20,7 @@ Answers: https://colab.research.google.com/drive/1FrSUB5CQPpWlo9O5Jnnkop90eFC6-s
 
 Create a copy of these tutorials in your own Google Drive to run the code. To do this, go into the tutorial link, click 'File', and finally 'Save a Copy in Drive'.
 
-We hope these materials provide utility for a broader audience! Although the tutotials are completely self-contained - you do not *need* any external material to understand the tutorial, we
+We hope these materials provide utility for a broader audience! Although the tutorials are completely self-contained - you do not *need* any external material to understand the tutorials, we
 suggest reading through the lecture slides before proceeding to the tutorial sheets. **All the data needed for this short course can be found in the 'sample_data' subfolder off each week's folder, and will be downloaded automatically along with the code and lecture slides upon clicking 'Download .zip'.**
 
 If you have any questions on this course's content, or how to get started on this course, email me at wcm23@cam.ac.uk.
